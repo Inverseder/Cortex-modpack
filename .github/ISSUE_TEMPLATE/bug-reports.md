@@ -2,7 +2,7 @@
 name: Bug reports
 about: Describe your bug
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
